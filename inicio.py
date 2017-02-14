@@ -1,1 +1,1 @@
-'eita krl' 
+"print("EEEEEEEEEEEEEEEITA MLK")" 
